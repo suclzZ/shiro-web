@@ -1,0 +1,5 @@
+为了方便主要用了shiro.ini配置方式加载用户相关信息，模拟了几个请求的权限过滤处理
+
+其中在success使用了bootstrap-table和knockout.js两个前端框架处理
+
+启动服务 tomcat7:run
